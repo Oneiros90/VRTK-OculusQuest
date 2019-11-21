@@ -1,7 +1,6 @@
-
-> ### VRTK Oculus Quest
-> A fork of the VRTK project, ready to be built and used on Oculus Quest
-> #### Requires the Unity software version 2019.2.10f1 (or above).
+# VRTK Oculus Quest
+A fork of the [VRTK project](https://github.com/ExtendRealityLtd/VRTK/), ready to be built and used on [Oculus Quest](https://www.oculus.com/quest/).
+#### Requires the Unity software version 2019.2.10f1 (or above).
 
 ## What is this?
 
@@ -19,7 +18,7 @@ This repository contains an example Unity project (the VRTK farm) showcasing how
 
 #### Open the project
 
-* Open the [Unity Hub] panel.
+* Open the Unity Hub panel.
 * Click the `Add` Button:
 * Browse to the local directory where the repository was downloaded to and click `Select Folder`
 * The project will now show up in the Unity Hub project window, so select it to open it in Unity.
