@@ -19,6 +19,6 @@ This repository contains an example Unity project (the VRTK farm) showcasing how
 #### Open the project
 
 * Open the Unity Hub panel.
-* Click the `Add` Button:
-* Browse to the local directory where the repository was downloaded to and click `Select Folder`
-* The project will now show up in the Unity Hub project window, so select it to open it in Unity.
+* Click the `Add` Button.
+* Browse to the local directory where the repository was downloaded to and click `Select Folder`.
+* The project will now show up in the Unity Hub project window, so select it to open it in Unity. Make sure to select `Android` as target platform.
